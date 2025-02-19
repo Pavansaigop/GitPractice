@@ -7,6 +7,8 @@ public class GitFeatur1 {
 		System.out.println("Added feature 1");
 		System.out.println("Added a new feature");
 		System.out.println("Added feature1 branch");
+		System.out.println("In Main branch");
+
 	}
 
 }
