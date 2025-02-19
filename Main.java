@@ -6,6 +6,7 @@ public class Main {
 		System.out.println(x);
 		System.out.println(x*2);
 		System.out.println(x*3);
+		System.out.println(x*4);
 		System.out.println(x*5);
 	}
 }
